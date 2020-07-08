@@ -1,0 +1,75 @@
+.img{
+    width: 200px;
+    height: 100px;
+    background-size: 100% 100%;
+
+}
+.small{
+    color: red;
+}
+.schedule{
+    color: seagreen;
+}
+#coloum{
+    position: relative;
+left: 70px;
+
+}
+.button{
+    background-color: springgreen;
+border: none;
+border-radius: 8px;
+padding: 9px 25px;
+cursor: pointer;
+}
+.categories img{width: 100px;
+    border-radius: 10px;
+margin-top: 90px;}
+.cat{
+    color: blueviolet;
+}
+.card-deck{
+    height: 900px;
+    width: 1200px;
+    border-radius: 10px;
+    margin-top: -150px;
+    position: relative;
+    left: 300px;
+}
+.iteam{
+    color: cornflowerblue;
+    margin-top: 100px;
+    
+}
+.card-footer img{
+    width: 20px;
+    height: 20px;
+}
+.iteam2{
+    color: black;
+    margin-top: -40px;
+}
+.cat3{
+    position: relative;
+    left: 300px;
+    width: 400px;
+    height: 400px;
+    
+    
+}
+.categories2{
+    border: 5px solid black;
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 100px;
+    
+}
+.cat4{
+    color: white;
+    padding: 10px 10px;
+
+}
+.footer3{
+    color: white;
+    text-align: center;
+}
